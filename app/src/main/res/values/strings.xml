@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Newspaper Events Timeline</string>
+    
+    <!-- Main Activity -->
+    <string name="capture_article">Capture Article</string>
+    <string name="view_timeline">View Timeline</string>
+    <string name="analyze_articles">Analyze Articles</string>
+    <string name="no_articles">No articles yet.\nCapture your first article!</string>
+    
+    <!-- Capture Activity -->
+    <string name="newspaper_name">Newspaper Name</string>
+    <string name="select_publication_date">Select Publication Date</string>
+    <string name="is_event_invitation">This is an event invitation</string>
+    <string name="notes_optional">Notes (optional)</string>
+    <string name="retake">Retake</string>
+    <string name="save_article">Save Article</string>
+    <string name="capture">Capture</string>
+    
+    <!-- Article Details -->
+    <string name="article_details">Article Details</string>
+    <string name="process_ocr">Process OCR</string>
+    <string name="upload_to_drive">Upload to Google Drive</string>
+    <string name="delete_article">Delete Article</string>
+    <string name="delete_confirmation">Are you sure you want to delete this article? This action cannot be undone.</string>
+    <string name="ocr_text">OCR Text</string>
+    <string name="notes">Notes</string>
+    
+    <!-- Timeline -->
+    <string name="events_timeline">Events Timeline</string>
+    <string name="no_events">No events yet.\nAnalyze articles to create events!</string>
+    <string name="generate_summary">Generate Summary</string>
+    <string name="ai_summary">AI Summary</string>
+    <string name="key_persons">Key persons: %s</string>
+    <string name="related_articles">%d related article(s)</string>
+    
+    <!-- Common -->
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    
+    <!-- Permissions -->
+    <string name="camera_permission_required">Camera permission is required to capture articles</string>
+    <string name="storage_permission_required">Storage permission is required</string>
+    
+    <!-- OCR Status -->
+    <string name="ocr_pending">OCR Pending</string>
+    <string name="ocr_processing">Processing…</string>
+    <string name="ocr_completed">OCR Completed</string>
+    <string name="ocr_failed">OCR Failed</string>
+    
+    <!-- Languages -->
+    <string name="language_urdu">Urdu</string>
+    <string name="language_telugu">Telugu</string>
+    <string name="language_english">English</string>
+    <string name="language_mixed">Mixed</string>
+    <string name="language_unknown">Unknown</string>
+</resources>
